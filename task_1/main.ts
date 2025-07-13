@@ -14,4 +14,5 @@ const teacher1: teacher = {
   location: "Accra",
   contract: false, // extra property not defined in the interface
 };
+console.log(teacher1);
 
