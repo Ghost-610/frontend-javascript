@@ -83,7 +83,7 @@ npx webpack  # or npm run build if configured
 ## 👨‍💻 Author
 
 **Alidu Gershon Elorm**  
-GitHub: [your-username](https://github.com/Ghost-610/frontend-javascript)
+GitHub: [Ghost-610](https://github.com/Ghost-610/frontend-javascript)
 
 ## 📝 License
 
